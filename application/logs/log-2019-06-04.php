@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-06-04 00:44:17 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 02:16:15 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 02:51:46 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 04:32:45 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 05:06:34 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 05:24:33 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 06:15:35 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 06:16:32 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:21:19 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:55:10 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:55:39 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:55:40 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:55:45 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:55:55 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:56:00 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:56:07 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:56:14 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:56:27 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:56:39 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:57:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:57:35 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 06:57:38 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-06-04 08:15:43 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 10:07:17 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 10:10:01 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 12:19:11 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-06-04 12:20:26 --> 404 Page Not Found: user/Examples/forgot_password
+ERROR - 2019-06-04 13:49:28 --> 404 Page Not Found: Public/favicon.ico

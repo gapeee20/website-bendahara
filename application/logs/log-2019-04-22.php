@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-22 01:27:49 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 01:27:53 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 01:32:27 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 01:32:50 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 01:34:33 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 02:13:19 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 02:51:12 --> 404 Page Not Found: user/Examples/page_500
+ERROR - 2019-04-22 02:52:12 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 02:53:06 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 03:07:21 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 03:21:36 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 06:14:55 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 07:23:37 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 07:24:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 07:28:02 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 12:05:05 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 16:20:05 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 16:50:17 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 16:50:24 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 16:50:25 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 16:50:31 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 16:59:55 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 17:16:41 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 17:22:09 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-04-22 17:22:09 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 17:22:17 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 17:52:48 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-04-22 19:04:54 --> 404 Page Not Found: Public/favicon.ico

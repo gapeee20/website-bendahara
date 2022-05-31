@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-21 00:10:43 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 00:16:51 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 00:21:29 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 00:50:08 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 00:57:50 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 00:58:27 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 01:04:52 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:04:52 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:10:45 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:10:52 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:10:53 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:00 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:01 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:04 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:04 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:12 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:11:13 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:12:37 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:13:05 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:13:11 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:13:11 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:29:41 --> 404 Page Not Found: Public/js
+ERROR - 2019-08-21 01:39:49 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 01:40:43 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/materlite/application/controllers/admin/Export.php 22
+ERROR - 2019-08-21 01:40:43 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/materlite/application/controllers/admin/Export.php 28
+ERROR - 2019-08-21 02:54:31 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 04:00:48 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 04:18:43 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 04:26:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:22:01 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 05:22:35 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:24:04 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:24:06 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:24:26 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:24:50 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:25:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:25:08 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:25:36 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-08-21 05:25:53 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 09:11:58 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 09:31:37 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 10:47:57 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 11:06:05 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 11:10:11 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 11:11:38 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 13:18:29 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-08-21 13:45:59 --> 404 Page Not Found: Public/favicon.ico

@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-01 05:05:14 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 07:05:55 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 09:53:44 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 11:01:39 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 11:01:44 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 11:55:07 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 11:55:30 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 12:01:53 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 17:39:14 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 17:50:37 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 17:50:47 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 17:51:00 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 17:51:37 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:09:34 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:11:00 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:13:39 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 18:14:43 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:14:47 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:14:54 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:16:19 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:16:22 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:22:26 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:23:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:24:09 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:24:41 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:25:02 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:30:13 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:31:00 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:31:06 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:31:12 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:32:54 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:32:56 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:33:01 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:33:03 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:33:05 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:42:21 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 18:42:28 --> 404 Page Not Found: Public/plugins
+ERROR - 2019-09-01 20:15:13 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 20:16:49 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/materlite/application/controllers/admin/Export.php 22
+ERROR - 2019-09-01 20:16:49 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/materlite/application/controllers/admin/Export.php 28
+ERROR - 2019-09-01 21:10:37 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-09-01 21:13:10 --> 404 Page Not Found: Images/thumbs_up.png
+ERROR - 2019-09-01 21:13:52 --> 404 Page Not Found: Plugins/bootstrap_notify
+ERROR - 2019-09-01 21:13:53 --> 404 Page Not Found: Plugins/bootstrap_notify
+ERROR - 2019-09-01 21:18:47 --> 404 Page Not Found: user/Examples/signin
+ERROR - 2019-09-01 21:18:52 --> 404 Page Not Found: user/Examples/signup
+ERROR - 2019-09-01 21:18:58 --> 404 Page Not Found: user/Examples/forgot_password
+ERROR - 2019-09-01 21:19:05 --> 404 Page Not Found: user/Examples/page_404

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-01-25 07:14:22 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2018-01-25 08:51:18 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2018-01-25 08:51:25 --> 404 Page Not Found: admin/Faviconico/index
+ERROR - 2018-01-25 08:51:37 --> 404 Page Not Found: admin/Ci_examples/favicon.ico
+ERROR - 2018-01-25 10:20:30 --> 404 Page Not Found: admin/Users/favicon.ico
+ERROR - 2018-01-25 11:37:02 --> 404 Page Not Found: admin/Faviconico/index
+ERROR - 2018-01-25 11:37:07 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2018-01-25 11:37:28 --> 404 Page Not Found: admin/Ci_examples/favicon.ico
+ERROR - 2018-01-25 11:38:42 --> 404 Page Not Found: admin/Widgets/favicon.ico
+ERROR - 2018-01-25 11:39:03 --> 404 Page Not Found: admin/Ui/favicon.ico
+ERROR - 2018-01-25 17:46:01 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2018-01-25 18:34:46 --> 404 Page Not Found: admin/Tables/favicon.ico
+ERROR - 2018-01-25 19:20:59 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:20:59 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:21:01 --> 404 Page Not Found: Plugins/bootstrap-notify
+ERROR - 2018-01-25 19:21:01 --> 404 Page Not Found: Plugins/bootstrap-notify
+ERROR - 2018-01-25 19:21:09 --> 404 Page Not Found: admin/Forms/favicon.ico
+ERROR - 2018-01-25 19:22:10 --> 404 Page Not Found: Public/plugins
+ERROR - 2018-01-25 19:22:56 --> 404 Page Not Found: Public/plugins
+ERROR - 2018-01-25 19:23:03 --> 404 Page Not Found: Public/plugins
+ERROR - 2018-01-25 19:23:06 --> 404 Page Not Found: Public/plugins
+ERROR - 2018-01-25 19:25:26 --> 404 Page Not Found: admin/Medias/favicon.ico
+ERROR - 2018-01-25 19:25:35 --> 404 Page Not Found: admin/Charts/favicon.ico
+ERROR - 2018-01-25 19:25:53 --> 404 Page Not Found: admin/Maps/favicon.ico
+ERROR - 2018-01-25 19:29:52 --> 404 Page Not Found: admin/Auth/favicon.ico
+ERROR - 2018-01-25 19:34:37 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:34:37 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:35:29 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:35:29 --> 404 Page Not Found: admin/Ui/.http:
+ERROR - 2018-01-25 19:35:59 --> 404 Page Not Found: Public/plugins

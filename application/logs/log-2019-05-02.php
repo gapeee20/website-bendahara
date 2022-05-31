@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-05-02 05:13:33 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 05:14:09 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 05:51:33 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 07:09:58 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 07:16:20 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 08:38:49 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 08:56:47 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 08:57:26 --> 404 Page Not Found: admin/Images/user_img_background.jpg
+ERROR - 2019-05-02 08:57:49 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 08:59:15 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 08:59:24 --> 404 Page Not Found: admin/Users/images
+ERROR - 2019-05-02 08:59:53 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:08 --> 404 Page Not Found: admin/Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:15 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:26 --> 404 Page Not Found: admin/Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:31 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:40 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:00:45 --> 404 Page Not Found: admin/Group/images
+ERROR - 2019-05-02 09:03:32 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:03:39 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 09:03:58 --> 404 Page Not Found: admin/Images/user_img_background.jpg
+ERROR - 2019-05-02 11:29:42 --> 404 Page Not Found: Images/login_bg.jpg
+ERROR - 2019-05-02 11:29:44 --> 404 Page Not Found: Public/favicon.ico
+ERROR - 2019-05-02 11:30:15 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 11:34:14 --> 404 Page Not Found: Images/user_img_background.jpg
+ERROR - 2019-05-02 11:34:21 --> 404 Page Not Found: admin/Images/user_img_background.jpg
+ERROR - 2019-05-02 23:16:26 --> 404 Page Not Found: Public/favicon.ico
